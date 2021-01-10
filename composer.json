@@ -2,9 +2,16 @@
     "name": "yuanjiawei/json-rpc-demo",
     "description": "my json-rpc demo project",
     "require": {
-        "felixfbecker/advanced-json-rpc": "^3.1"
+        "felixfbecker/advanced-json-rpc": "^3.1",
+        "php": "~7.0",
+        "hyperf/json-rpc": "^2.1"
     },
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    },
     "authors": [
         {
             "name": "yuanjiawei",
