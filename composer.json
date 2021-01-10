@@ -1,0 +1,14 @@
+{
+    "name": "yuanjiawei/json-rpc-demo",
+    "description": "my json-rpc demo project",
+    "require": {
+        "felixfbecker/advanced-json-rpc": "^3.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yuanjiawei",
+            "email": "957089263@qq.com"
+        }
+    ]
+}
