@@ -1,0 +1,6 @@
+[12-Jan-2021 17:43:36 Asia/Chongqing] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /var/www/json-rpc-demo/vendor/jsonrpc/jsonrpc/src/JsonRpc/Server.php on line 52
+[12-Jan-2021 17:43:40 Asia/Chongqing] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /var/www/json-rpc-demo/vendor/jsonrpc/jsonrpc/src/JsonRpc/Server.php on line 52
+[12-Jan-2021 17:43:42 Asia/Chongqing] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /var/www/json-rpc-demo/vendor/jsonrpc/jsonrpc/src/JsonRpc/Server.php on line 52
+[12-Jan-2021 17:44:18 Asia/Chongqing] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /var/www/json-rpc-demo/vendor/jsonrpc/jsonrpc/src/JsonRpc/Transport/BasicServer.php on line 17
+[12-Jan-2021 17:45:05 Asia/Chongqing] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /var/www/json-rpc-demo/vendor/jsonrpc/jsonrpc/src/JsonRpc/Transport/BasicServer.php on line 17
+[12-Jan-2021 17:45:13 Asia/Chongqing] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /var/www/json-rpc-demo/vendor/jsonrpc/jsonrpc/src/JsonRpc/Transport/BasicServer.php on line 17
